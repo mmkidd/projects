@@ -12,3 +12,7 @@ This project was my final submission to Udacity's Machine Learning Engineering N
 In this competition, we had to predict stock returns from news sentiment and price history. The competition submissions had to be coded in Kaggle's web API, so my submissions and analysis cannot be uploaded on github, instead see my contributions here:
 
 [(Link)](https://www.kaggle.com/mmkidd/two-sigma-pre-and-post-processing-discussion) An analysis of pre- and post-processing methods, including some discussion on the limitations of the competition. 
+
+# [FX Carry Trade Processing](https://github.com/mmkidd/carry_processing)
+
+This project is a study in transforming FX spot/forward rates in to carry returns, and constructing simple portfolios using mean-variance optimization. The project is built in R, and uses the pfanalytics package for constrained optimization. The data is spot/forward rates for emering markets from Bloomberg (not included in the repo).
