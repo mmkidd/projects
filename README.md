@@ -1,4 +1,4 @@
-Personal Projects
+# Personal Projects
 
 Welcome to my github, where I list some recent projects.
 
